@@ -4,4 +4,6 @@
     <string name="start">Start</string>
     <string name="start_service">Start Service</string>
     <string name="stop_service">Stop Service</string>
+    <string name="start_intent_service">Start Intent Service</string>
+    <string name="stop_intent_service">Stop Intent Service</string>
 </resources>

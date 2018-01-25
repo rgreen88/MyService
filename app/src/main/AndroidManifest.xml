@@ -18,6 +18,8 @@
         </activity>
 
         <service android:name=".MyService"
+            android:exported="false"/>
+        <service android:name=".MyIntentService"
             android:exported="false"/> <!-- exported = false means this service will only
              be available to this app exclusively!-->
     </application>
